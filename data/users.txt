@@ -1,0 +1,1 @@
+admin|password123|Admin User|Administrator|NCR|2024-03-20T10:00:00
